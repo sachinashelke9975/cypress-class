@@ -1,0 +1,22 @@
+{
+  "name": "cypress-class",
+  "version": "1.0.0",
+  "description": "Cypress class notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinashelke9975/cypress-class.git"
+  },
+  "author": "Sachin Shelke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinashelke9975/cypress-class/issues"
+  },
+  "homepage": "https://github.com/sachinashelke9975/cypress-class#readme",
+  "dependencies": {
+    "cypress": "^12.7.0"
+  }
+}
